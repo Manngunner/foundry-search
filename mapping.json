@@ -1,0 +1,18 @@
+{
+  "properties": {
+    "name": { "type": "text" },
+    "title": { "type": "text" },
+    "description": { "type": "text" },
+    "url": { "type": "text" },
+    "is_exclusive": { "type": "boolean" },
+    "is_protected": { "type": "boolean" },
+    "author_username": { "type": "text" },
+    "tags": { "type": "text" },
+    "systems": { "type": "text" },
+    "compatible_generation": { "type": "integer" },
+    "minimum": { "type": "text" },
+    "verified": { "type": "text" },
+    "maximum": { "type": "text" },
+    "requires": { "type": "text" }
+  }
+}
